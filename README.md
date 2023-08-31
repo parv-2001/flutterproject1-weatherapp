@@ -1,2 +1,16 @@
-# flutterproject1-weatherapp
-Flutter is a popular framework for building mobile apps for both Android and iOS platforms. With Flutter, you can easily build beautiful and highly performant mobile apps using a single codebase. In this tutorial, we will be building a simple weather app that displays the current weather conditions for a given location.
+# flutter_application_3
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
