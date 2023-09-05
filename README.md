@@ -1,4 +1,6 @@
-simple and elegant weather app built with Flutter and Dart that provides real-time weather data using the OpenWeatherMap API. With this app, you can easily check the temperature, humidity, and wind speed of any location you search for.
+Weather App (Flutter)
+
+A simple and elegant weather app built with Flutter and Dart that provides real-time weather data using the OpenWeatherMap API. With this app, you can easily check the temperature, humidity, and wind speed of any location you search for.
 
 Table of Contents
 Introduction
